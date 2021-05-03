@@ -38,7 +38,11 @@ V. Eigenvectors, Eigenvalues, and Eigendecomposition.
    3. Linear Transformation.
    4. Eigendecomposition. 
    Hands-on Project: Principal Component Analysis. 
-   
+
+Sources consulted: 
+'Linear Algebra for Dummies'.
+'Linear Aggebra - learning group in Notion page'.
+'3Blue1Brown - Linear Algebra series'.
+
 List of references: 
-'Essential Math for Data Science' - Hadrien Jean
-3Blue1Brown - Linear Algebra series
+'Essential Math for Data Science' - Hadrien Jean.
